@@ -17,16 +17,9 @@
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyasudheer&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyasudheer&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyasudheer&layout=compact&theme=radical)  
-
----
-
 ## 🏆 Highlights  
 - 🚀 Designed and scaled **high-throughput fintech platforms** leveraging **Kafka & event-driven microservices**.  
-- 📊 Led **real-time merchant analytics dashboards** and **alerting systems** for banks and networks.  
+- 📊 Led **real-time merchant analytics** and **alerting systems** for banks and networks.  
 - 🛡 Championed **security and compliance** initiatives (OAuth, mTLS, API Gateways).  
 - 🤝 Mentored cross-functional teams on **SLOs, ownership alignment, and distributed architecture best practices**.  
 
