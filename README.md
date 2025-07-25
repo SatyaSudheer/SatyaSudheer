@@ -25,12 +25,6 @@
 
 ---
 
-## ✍ Blogs & Learning  
-- **[Bytes & Thoughts](https://bytesandthoughts.substack.com/)** – My blog on **cloud, architecture, and leadership**.  
-- Writing on **system design, modern architectures, and engineering leadership**.  
-
----
-
 ## 📬 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyasudheer)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/satya_sudheer)  
